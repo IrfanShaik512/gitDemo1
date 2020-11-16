@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60" started-at="2020-09-18T16:09:18Z" finished-at="2020-09-18T16:09:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60" started-at="2020-09-18T16:09:18Z" finished-at="2020-09-18T16:09:18Z">
+      <class name="MavenExample.MyMavenDemo.RestApi">
+        <test-method status="PASS" signature="apiExample()[pri:0, instance:MavenExample.MyMavenDemo.RestApi@66d2e7d9]" name="apiExample" duration-ms="15" started-at="2020-09-18T21:39:18Z" finished-at="2020-09-18T21:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiExample -->
+        <test-method status="PASS" signature="apiExmaple2()[pri:0, instance:MavenExample.MyMavenDemo.RestApi@66d2e7d9]" name="apiExmaple2" duration-ms="0" started-at="2020-09-18T21:39:18Z" finished-at="2020-09-18T21:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiExmaple2 -->
+      </class> <!-- MavenExample.MyMavenDemo.RestApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
